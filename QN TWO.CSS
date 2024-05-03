@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-block: 10px;
+}
+img{
+    float: right;
+    display: block;
+    margin: 5px 10px 10px 10px;
+    border: 2px solid black;
+}
+p{
+    overflow: auto;
+    display: block;
+}

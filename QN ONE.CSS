@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    border: 2px solid black;
+    box-sizing: content-box;
+}
+.google{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150px;
+}
+.g{
+    color: blue;
+}
+.o1{
+    color: red;
+}
+.o2{
+    color: orange;
+}
+.l{
+    color: green;
+}
+.e{
+    color: red;
+}
+#googleSearch{
+    size: 0vmax;
+
+}
